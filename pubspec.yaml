@@ -10,6 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+image_picker: ^1.1.2
+shared_preferences: ^2.5.5
+google_mobile_ads: ^8.0.0
 
 dev_dependencies:
   flutter_test:
